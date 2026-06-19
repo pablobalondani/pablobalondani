@@ -1,8 +1,12 @@
-## Hi there 👋
+
+💫 About Me:
 
 <!--
 **pablobalondani/PabloBalondani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👩‍💻I'm a passionate Frontend Developer .
+🌐I love building responsive web applications, interactive user interfaces, and creating smooth digital experiences.
+I'm currently learning and improving my Nextjs projects while enhancing my UI/UX design skills.
+⚡I'm looking to collaborate on exciting web development, where I can contribute my skills and learn new technologies.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
